@@ -1,0 +1,19 @@
+#dice-para{
+   font-size: 100px;
+   padding: 0px;
+   border:0ch;
+   margin:0px;
+}
+input{
+    height: 40px;
+    width: 80px;
+    font-size: xx-large;
+}
+p#sum-para{
+    font-size: xx-large;
+}
+#first{
+    border:solid black 2px;
+    height: 400px;
+    padding: 10px;
+}
